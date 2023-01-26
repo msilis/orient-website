@@ -1,0 +1,41 @@
+.watch-banner-container {
+    display: flex;
+    
+}
+
+.banner-image {
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+
+#info-button {
+    position: absolute;
+    left: 20rem;
+    bottom: 10rem;
+    background-color: #039;
+    z-index: 2;
+   
+    
+}
+
+#banner-text {
+    position: absolute;
+    margin-top: 10rem;
+    margin-left: 10rem;
+    color: white;
+    z-index: 3;
+    width: 20%;
+    
+}
+
+#heading-orient-star {
+    text-align: left;
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+#text-orient-star {
+    text-align: left;
+    font-size: 1.5rem;
+}

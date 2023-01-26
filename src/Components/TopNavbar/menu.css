@@ -1,0 +1,12 @@
+.top-menu-div {
+    display: flex;
+    
+    height: 108px;
+    background-color: black;
+}
+
+#orient-logo {
+    margin-top: 2rem;
+    margin-left: 160px;
+    /* border: 1px solid red; */
+}

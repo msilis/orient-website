@@ -1,0 +1,32 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.placeholder {
+    color: white;
+}
+
+.menu-item-container {
+    /* border: 1px solid red; */
+    height: 4vw;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 30rem;
+}
+
+.menu-item {
+    font-size: 1.3rem;
+}
+
+#search-icon {
+    margin-left: .5rem;
+    height: 13.4px;
+    width: 13.4px;
+}
+
+.search-text {
+    margin-left: 4rem;
+}

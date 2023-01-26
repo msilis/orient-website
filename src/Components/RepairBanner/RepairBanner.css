@@ -1,0 +1,8 @@
+.repair-banner-container {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    justify-items: center;
+    margin-top: .15rem;
+    margin-bottom: .15rem
+}

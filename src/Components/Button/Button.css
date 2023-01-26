@@ -1,0 +1,13 @@
+.button-template {
+    position: relative;
+    top: 18px;
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.button-container {
+    
+    background-color: #00329e;
+    height: 60px;
+    width: 150px;
+}
