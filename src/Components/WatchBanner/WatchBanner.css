@@ -1,5 +1,6 @@
 .watch-banner-container {
     display: flex;
+    flex-shrink: 2;
     
 }
 

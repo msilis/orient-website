@@ -1,0 +1,6 @@
+.boxes-container {
+    display: flex;
+    flex-shrink: 2;
+    margin-top: 48rem;
+    
+}

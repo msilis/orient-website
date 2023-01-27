@@ -1,0 +1,31 @@
+.box-text {
+    width: 60%;
+    font-size: 1.75rem;
+    margin-top: 34rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.orient-logo {
+    background-image: url('../../Images/original--3fy73w.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 50%;
+    max-height: 54rem;
+    color: white;
+    
+    
+}
+
+.orient-star-logo {
+    background-image: url('../../Images/original--UUvxDL.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 50%;
+    max-height: 54rem;
+   
+}
+
+
