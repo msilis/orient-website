@@ -1,7 +1,7 @@
 import Button from "../Button/Button";
 import './RepairBanner.css'
 
-
+//This component is the little banner announcing the free repair
 function RepairBanner(){
 
     let buttonText = 'See Details';

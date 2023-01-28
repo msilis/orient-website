@@ -1,0 +1,39 @@
+#linkbox-container {
+    display: flex;
+}
+
+.distributors {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: #1D1D1D;
+    color: white;
+    min-height: 480px;
+    font-size: 2rem;
+    text-align: left;
+}
+
+.service-network {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: #2D2D2D;
+    color: white;
+    min-height: 480px;
+    font-size: 2rem;
+    text-align: left;
+
+}
+
+.linkbox-text {
+    width: 30rem;
+    font-size: 1.5rem;
+}
+
+.distributors p, h4{
+    margin-left: 4rem;
+}
+
+.service-network p, h4 {
+    margin-left: 4rem;
+}

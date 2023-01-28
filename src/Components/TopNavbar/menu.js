@@ -2,7 +2,7 @@ import './menu.css';
 import logoImage from '../../Images/original--c0jxu6.png'
 import MenuItems from './menuItems';
 
-
+//This is the navigation bar at the top of the page. 
 function Menu(){
     return(
         <div className="top-menu-div">

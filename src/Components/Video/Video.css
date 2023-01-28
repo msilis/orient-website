@@ -1,0 +1,19 @@
+.video-container {
+    display: flex;
+    height: 650px;
+    z-index: 0;
+}
+
+#video-text-overlay {
+    position: absolute;
+    left: 4rem;
+    top: 135rem;
+    font-size: 4rem;
+    z-index: 2;
+    color: white;
+
+}
+
+#video-thumbnail {
+    width: 100%;
+}

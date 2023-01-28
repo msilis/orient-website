@@ -1,0 +1,19 @@
+.sitemap-container {
+    display: flex;
+    justify-content: center;
+    background-color: #f1f3f5;
+    color: #003399;
+    
+}
+
+li {
+    list-style: none;
+    text-align: left;
+}
+
+.sitemap-container h4 {
+    text-align: left;
+    font-weight: 500;
+    margin-left: 2.5rem;
+}
+

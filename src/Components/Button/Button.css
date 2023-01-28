@@ -12,6 +12,19 @@
     width: 150px;
 }
 
+#banner-one-info-button {
+    position: relative;
+    top: 18px;
+    text-align: center;
+    font-size: 1.4rem;
+
+}
+
+#archive-button {
+    margin-top: 30rem;
+    margin-left: 10rem;
+}
+
 #star-brand {
     margin-left: 8rem;
     background-color: gray;
@@ -22,3 +35,31 @@
     margin-left: 8rem;
     background-color: gray;
 }
+
+#dist-button {
+    background-color: gray;
+    width: 240px;
+    height: 50px;
+    font-size: 1.25rem;
+    margin-left: 4rem;
+}
+
+#service-button {
+    background-color: gray;
+    width: 240px;
+    height: 50px;
+    font-size: 1.25rem;
+    margin-left: 4rem;
+}
+
+#dist-button a {
+    font-size: 1rem;
+    margin-left: 1rem;
+    
+}
+
+#service-button a {
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+

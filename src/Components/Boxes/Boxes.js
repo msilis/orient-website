@@ -1,6 +1,7 @@
 import BrandBox from '../BrandBox/BrandBox';
 import './Boxes.css'
 
+//This component is used for the two boxes with links to Orient Star and Orient
 function Boxes(){
 
     let orientStarText = 'On your wrist is the joy of timeless styling and the promise of tomorrow. ORIENT STAR answers your love of the authentic with a legacy of mechanical excellence.'

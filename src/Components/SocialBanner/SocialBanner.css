@@ -1,0 +1,38 @@
+.social-container {
+    margin-top: 48rem;
+    align-content: center;
+    margin-bottom: .5rem;
+}
+
+#social-pic {
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 0;
+    position: relative;
+}
+
+#social-text {
+    position: relative;
+    top: -12rem;
+    left: -34rem;
+}
+
+
+
+#border-container {
+    position: relative;
+    top: -13rem;
+    left: -30rem;
+}
+
+#insta-container {
+    position: relative;
+    width: 10rem;
+    top: -11rem;
+    left: 16rem;
+}
+
+#insta-pic {
+    height: 60px;
+    width: 60px;
+}

@@ -1,18 +1,17 @@
 import './WatchBanner.css';
-import watchBannerImageOne from '../../Images/original--DyvuI7.png';
 import Button from '../Button/Button';
 
-function WatchBanner(){
+//This component would be the carousel part of the website that cycles through different ads. I have not made the carousel, just the first image is shown.
+function WatchBanner(props){
 
-    let buttonText = 'See details';
 
     return(
         <div className="watch-banner-container">
-            <img src={watchBannerImageOne} className="banner-image"/>
+            <img src={props.bannerImage} className="banner-image"/>
             <div id='banner-text'>
-                <h3 id='heading-orient-star'>Orient Star Contemporary, New Skeleton</h3>
-                <p id='text-orient-star'>Its modern and stylish design includes sophisticated details, and the hand-wound skeleton movement symbolises the vastness of the universe. </p>
-            <Button innerText={buttonText} id="info-button"/>
+                <h3 id={props.bannerId}>{props.bannerText}</h3>
+                <p id={props.bannerPId}>{props.bannerPText}</p>
+            <Button innerText={props.buttonText} buttonId={props.buttonId}/>
             </div>
             
         </div>

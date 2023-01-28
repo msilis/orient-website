@@ -1,7 +1,7 @@
 import './menuItems.css';
 import searchIcon from '../../Images/search-13-16.png';
 
-
+//This component makes up the actual parts of the menu that get passed to the navbar. I did not add in the hover functionality to expand the menu on mouseover.
 function MenuItems(){
     return(
         <div className="menu-item-container">
